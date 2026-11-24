@@ -9,3 +9,8 @@ Saya tertarik mempelajari perangkat lunak open source karena dapat digunakan, di
 
 ## Tujuan Belajar
 Tujuan saya mempelajari open source adalah memahami cara kerja pengembangan perangkat lunak, menggunakan Git dan GitHub, serta meningkatkan kemampuan bekerja sama dalam proyek teknologi.
+
+## Teknologi yang Dipelajari
+- Linux
+- Git dan GitHub
+- Markdown
